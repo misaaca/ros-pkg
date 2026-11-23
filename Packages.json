@@ -7,13 +7,13 @@
     "name": "ros_kernel",
     "version": "0.3.43",
     "codename": "rumi",
-    "build": "78d235cf",
+    "build": "788e8a1f",
     "arch": "x86_64",
     "filename": "kernel/ros_kernel-v0.3.43-rumi",
-    "size": 22019352,
-    "sha256": "e8899952997ee4a1c0b1f2337d50d2159d4d86f6436b752c6585c93659346ab6",
-    "release_date": "2026-11-23T16:55:19Z",
-    "changelog": "ROS 0.3.43-rumi build 78d235cf"
+    "size": 22023448,
+    "sha256": "702c572e259a4df8190794f21c1f889bd1dbbe108ec1f3f1c3ae69c0356b72b6",
+    "release_date": "2026-11-23T17:18:26Z",
+    "changelog": "ROS 0.3.43-rumi build 788e8a1f"
   },
   "packages": [
     {
