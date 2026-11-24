@@ -5,15 +5,15 @@
   },
   "kernel": {
     "name": "ros_kernel",
-    "version": "0.3.43",
+    "version": "0.3.44",
     "codename": "rumi",
-    "build": "f83c6580",
+    "build": "be444d17",
     "arch": "x86_64",
-    "filename": "kernel/ros_kernel-v0.3.43-rumi",
-    "size": 22054152,
-    "sha256": "f83c65807777c6425772a20efff41a300bc48a9e8a1f40fec1518ff6a870e161",
-    "release_date": "2026-11-24T15:12:09Z",
-    "changelog": "ROS 0.3.43-rumi build f83c6580"
+    "filename": "kernel/ros_kernel-v0.3.44-rumi",
+    "size": 22071208,
+    "sha256": "be444d17368ff5f83dfb5299631495f4b00ae6978d032617c8dc737e0def961b",
+    "release_date": "2026-11-24T16:19:44Z",
+    "changelog": "ROS 0.3.44-rumi build be444d17"
   },
   "packages": [
     {
