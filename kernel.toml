@@ -7,5 +7,5 @@ arch = "x86_64"
 filename = "kernel/ros_kernel-v0.3.43-rumi"
 size = 22031592
 sha256 = "e8e8a5a96d1eb1bf826d670b3645ba2f868c5ff329fbee583352f1ea6344aeb6"
-release_date = "2026-11-24T14:36:17Z"
+release_date = "2026-11-24T14:38:26Z"
 changelog = "ROS 0.3.43-rumi build ee23c1c9"
