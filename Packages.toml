@@ -7,13 +7,13 @@ url = "https://raw.githubusercontent.com/misaaca/ros-pkg/main"
 name = "ros_kernel"
 version = "0.3.44"
 codename = "rumi"
-build = "be444d17"
+build = "5414cc2c"
 arch = "x86_64"
 filename = "kernel/ros_kernel-v0.3.44-rumi"
 size = 22071208
-sha256 = "be444d17368ff5f83dfb5299631495f4b00ae6978d032617c8dc737e0def961b"
-release_date = "2026-11-24T16:19:44Z"
-changelog = "ROS 0.3.44-rumi build be444d17"
+sha256 = "5414cc2c6e157e7a8211f53e84f032286326724fe98732622e70c53f61213df3"
+release_date = "2026-11-24T16:36:49Z"
+changelog = "ROS 0.3.44-rumi build 5414cc2c"
 
 [[package]]
 name = "hello-ros"
