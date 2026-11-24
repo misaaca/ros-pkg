@@ -2,10 +2,10 @@
 name = "ros_kernel"
 version = "0.3.43"
 codename = "rumi"
-build = "1d682363"
+build = "f83c6580"
 arch = "x86_64"
 filename = "kernel/ros_kernel-v0.3.43-rumi"
-size = 22058048
-sha256 = "1d6823638d1297408182576d716ade3fab56250ab7523d9728609821a317c551"
-release_date = "2026-11-24T14:57:59Z"
-changelog = "ROS 0.3.43-rumi build 1d682363"
+size = 22054152
+sha256 = "f83c65807777c6425772a20efff41a300bc48a9e8a1f40fec1518ff6a870e161"
+release_date = "2026-11-24T15:12:09Z"
+changelog = "ROS 0.3.43-rumi build f83c6580"
