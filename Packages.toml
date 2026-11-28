@@ -5,15 +5,15 @@ url = "https://raw.githubusercontent.com/misaaca/ros-pkg/main"
 
 [kernel]
 name = "ros_kernel"
-version = "0.3.44"
+version = "0.3.45"
 codename = "rumi"
-build = "0abf833f"
+build = "73eb5c31"
 arch = "x86_64"
-filename = "kernel/ros_kernel-v0.3.44-rumi"
-size = 22160312
-sha256 = "0abf833fd53a7ba2d092a711ddc4a62e9dd532133c42f02dba5e2f373c1f656c"
-release_date = "2026-11-26T06:33:33Z"
-changelog = "ROS 0.3.44-rumi build 0abf833f"
+filename = "kernel/ros_kernel-v0.3.45-rumi"
+size = 22338200
+sha256 = "73eb5c313699c021b0679852fc74d42f1c006af7bc8a34ebb1acaa9ae4001006"
+release_date = "2026-11-28T15:23:20Z"
+changelog = "ROS 0.3.45-rumi build 73eb5c31"
 
 [[package]]
 name = "hello-ros"
